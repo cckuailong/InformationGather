@@ -23,10 +23,10 @@ getData([
                 "desc": "网站的历史归档信息"
             },
             {
-                "url": "https://www.seebug.org/",
-                "logo": "assets/images/logos/seebug.png",
-                "title": "SeeBug",
-                "desc": "知道创宇的漏洞数据库"
+                "url": "https://github.com/ElevenPaths/FOCA",
+                "logo": "assets/images/logos/github.jpg",
+                "title": "FOCA",
+                "desc": "获取目标网站上文件中的元数据"
             },
         ]
     },
@@ -732,6 +732,31 @@ getData([
                         "desc": "美国官方工控数据库"
                     },
                 ]
+            },
+        ]
+    },
+    {
+        "name": "社会工程",
+        "en_name": "Social Engineer",
+        "icon": "linecons-star",
+        "web": [
+            {
+                "url": "https://github.com/trustedsec/social-engineer-toolkit",
+                "logo": "assets/images/logos/github.jpg",
+                "title": "Social-Engineer Toolkit (SET)",
+                "desc": "开源社工工具集"
+            },
+            {
+                "url": "https://github.com/ElevenPaths/FOCA",
+                "logo": "assets/images/logos/github.jpg",
+                "title": "FOCA",
+                "desc": "获取目标网站上文件中的元数据"
+            },
+            {
+                "url": "https://github.com/Viralmaniar/I-See-You",
+                "logo": "assets/images/logos/github.jpg",
+                "title": "I-See-You",
+                "desc": "通过钓鱼获取目标地理定位信息"
             },
         ]
     },
