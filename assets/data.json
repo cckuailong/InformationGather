@@ -684,6 +684,12 @@ getData([
                         "desc": "通用漏洞数据库"
                     },
                     {
+                        "url": "https://exploits.shodan.io/",
+                        "logo": "assets/images/logos/shodan.jpg",
+                        "title": "Exploits-Shodan",
+                        "desc": "从Exploit-db等多个漏洞库搜索POC"
+                    },
+                    {
                         "url": "https://www.exploit-db.com/",
                         "logo": "assets/images/logos/exploit_db.png",
                         "title": "Exploit-db",
