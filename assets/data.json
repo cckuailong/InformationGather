@@ -1,5 +1,24 @@
 getData([
     {
+        "name": "本站源码",
+        "en_name": "Source Code",
+        "icon": "linecons-user",
+        "web": [
+            {
+                "url": "https://github.com/cckuailong/InformationGather",
+                "logo": "assets/images/logos/github.jpg",
+                "title": "InformationGather",
+                "desc": "本站源码+json数据（求个star）"
+            },
+            {
+                "url": "https://github.com/Qftm/Information_Collection_Handbook",
+                "logo": "assets/images/logos/github.jpg",
+                "title": "Information_Collection_Handbook",
+                "desc": "信息收集手册"
+            },
+        ]
+    },
+    {
         "name": "常用推荐",
         "en_name": "Recommended",
         "icon": "linecons-star",
