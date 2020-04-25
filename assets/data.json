@@ -658,6 +658,12 @@ getData([
                         "desc": "大力盘搜索--百度网盘"
                     },
                     {
+                        "url": "http://megasearch.co/",
+                        "logo": "assets/images/logos/mega.jpg",
+                        "title": "MegaSearch",
+                        "desc": "Mega网盘搜索（国外知名云盘服务）"
+                    },
+                    {
                         "url": "https://github.com/gudegg/yunSpider",
                         "logo": "assets/images/logos/github.jpg",
                         "title": "YunSpider",
