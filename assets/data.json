@@ -693,6 +693,24 @@ getData([
                 ]
             },
             {
+                "name": "情报威胁",
+                "en_name": "Intelligence Threat",
+                "web": [
+                    {
+                        "url": "https://www.threatminer.org/",
+                        "logo": "assets/images/logos/threatminer.png",
+                        "title": "Threat Miner",
+                        "desc": "情报威胁聚合网站，依赖CIRCL, VirusTotal等开源数据"
+                    },
+                    {
+                        "url": "https://www.circl.lu/",
+                        "logo": "assets/images/logos/circl.png",
+                        "title": "Circl",
+                        "desc": "计算机应急响应中心"
+                    },
+                ]
+            },
+            {
                 "name": "历史漏洞",
                 "en_name": "History Vulnerability",
                 "web": [
