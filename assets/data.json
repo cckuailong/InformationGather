@@ -179,6 +179,12 @@ getData([
                         "title": "Hacker Target",
                         "desc": "国外的子域名查询服务"
                     },
+                    {
+                        "url": "https://github.com/mschwager/fierce",
+                        "logo": "assets/images/logos/github.jpg",
+                        "title": "Fierce",
+                        "desc": " DNS枚举工具，kali自带"
+                    }
                 ]
             },
             {
@@ -800,6 +806,12 @@ getData([
                 "logo": "assets/images/logos/blackbook.png",
                 "title": "BlackBook Online",
                 "desc": "用于查询个人信息"
+            },
+            {
+                "url": "https://www.maltego.com/",
+                "logo": "assets/images/logos/maltego.jpg",
+                "title": "Maltego",
+                "desc": "著名的情报收集工具，情报可视化"
             },
             {
                 "url": "https://github.com/trustedsec/social-engineer-toolkit",
