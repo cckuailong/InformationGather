@@ -8,7 +8,7 @@ getData([
                 "url": "https://github.com/cckuailong/InformationGather",
                 "logo": "assets/images/logos/github.jpg",
                 "title": "InformationGather",
-                "desc": "本站源码+json数据（求个star）"
+                "desc": "本站源码+json数据（有帮助的留下你的star哦）"
             },
             {
                 "url": "https://github.com/Qftm/Information_Collection_Handbook",
@@ -369,6 +369,12 @@ getData([
                         "title": "Webscan",
                         "desc": "IP反查服务（需连外网）"
                     },
+                    {
+                        "url": "https://github.com/urbanadventurer/bing-ip2hosts",
+                        "logo": "assets/images/logos/github.jpg",
+                        "title": "bing-ip2hosts",
+                        "desc": "根据IP或主机名查询域名（使用Bing爬虫）"
+                    }
                 ]
             },
             {
