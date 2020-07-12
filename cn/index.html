@@ -83,6 +83,21 @@
                             <i :class="menu.icon"></i>
                             <span class="title">{{menu.name}}</span>
                         </a>
+                        
+                        <div class="d-flex flex-fill flex-tab">
+                            <div class="overflow-x-auto">
+                                <div class="slider_menu mini_tab ajax-list-home into" slidertab="sliderTab" data-id="108">
+                                    <ul class="nav nav-pills menu" role="tablist">
+                                        <li class="anchor" style="position: absolute; width: 80px; height: 28px; left: 83px; opacity: 1;"></li>
+                                        <li class="pagenumber nav-item"><a id="term-109" class="nav-link" data-action="load_home_tab" data-taxonomy="favorites" data-id="109">在线课堂</a></li>
+                                        <li class="pagenumber nav-item"><a id="term-110" class="nav-link active" data-action="load_home_tab" data-taxonomy="favorites" data-id="110">学术资源</a></li> 
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="flex-fill"></div>
+                            <a class="btn-move tab-move text-xs ml-2" href="#" style="line-height:34px;display:none">more+</a>
+                        </div>
+
                         <ul v-if="menu.children">
                             <li v-for="submenu in menu.children">
                                 <a :href="'#'+submenu.name" class="smooth">
