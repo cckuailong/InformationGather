@@ -247,6 +247,12 @@ getData([
                         "title": "企查查",
                         "desc": "人民银行备案企业征信机构"
                     },
+                    {
+                        "url": "https://www.xiaolanben.com/",
+                        "logo": "assets/images/logos/xiaolanben.png",
+                        "title": "小蓝本",
+                        "desc": "商业情报免费查询"
+                    },
                 ]
             },
             {
